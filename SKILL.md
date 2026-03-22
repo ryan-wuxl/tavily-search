@@ -1,5 +1,6 @@
 ---
 name: tavily-search
+homepage: https://github.com/ryan-wuxl/tavily-search
 description: Tavily AI Search API integration for OpenClaw. Provides web search capabilities using Tavily's AI-powered search engine.
 metadata:
   {
